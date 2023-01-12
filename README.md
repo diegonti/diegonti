@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diegonti
-- 👀 I’m interested in computational chemistry and data science
-- 🌱 I’m currently studiyng chemistry at the University of Barcelona and learing Python on my own
+- 💻 I’m interested in computational chemistry and data science
+- ⚛ I’m a Chemistry grad currently studiyng a Master's degree in Computational Modelling at the University of Barcelona
 - 📫 You can reach me at diegonti.doc@gmail.com
 
 <!---
